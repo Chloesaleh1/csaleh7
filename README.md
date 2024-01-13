@@ -4,6 +4,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Chloe+Saleh!;" />
 </h1>
 
+<style>
+@keyframes repeatAnimation {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.animated-text {
+  animation: repeatAnimation 4s infinite; /* Adjust the duration as needed */
+}
+</style>
+
 <h3 align="center">A student at the Georgia Institute of Technology, currently pursuing my M.S. in Computational Science and Engineering</h3>
 
 <br/>
