@@ -32,10 +32,10 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages/Frameworks ⚒️</h2>
+<h2 align="center">⚒️ Languages ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,python,java,sql,r" />
+    <img src="https://skillicons.dev/icons?i=python,java,sql,r" />
 </div>
 
 <br/>
