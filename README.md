@@ -10,8 +10,6 @@
 
 <div align="center">
  
- I am 1/2 French, 1/2 Lebanese
- 
  📊 Data Explorer | 🧮 Number Cruncher | 🤖 Machine Learning Enthusiast
 
 "Debugging: Being the detective in a crime movie where you're also the murderer."
